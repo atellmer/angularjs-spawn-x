@@ -1,0 +1,35 @@
+{
+  "name": "angularjs-spawn-x",
+  "version": "1.0.0",
+  "description": "AngularJS connector for spawn-x. (Reactive management for javaScript applications)",
+  "authors": [
+    "AlexPlex"
+  ],
+  "license": "MIT",
+  "main": "./lib/angularjs-spawn-x.umd.min.js",
+  "homepage": "https://github.com/atellmer/angularjs-spawn-x",
+  "keywords": [
+    "state",
+    "store",
+    "app",
+    "management",
+    "control",
+    "predictable",
+    "live",
+    "observer",
+    "reactive",
+    "redux",
+    "flux",
+    "mobx",
+    "observable",
+    "rxjs",
+    "angular",
+    "angularjs"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
