@@ -49,7 +49,7 @@ function ngSpawn() {
         }
 
         if (isUndefined(zone) || isUndefined(selector)) {
-          return error(`react-spawn-x: incorrect arguments for selection`);
+          return error(`angularjs-spawn-x: incorrect arguments for selection`);
         }
 
         detect({zone, component, key, selector});
