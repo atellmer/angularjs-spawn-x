@@ -46,6 +46,6 @@
   },
   "peerDependencies": {
     "angular": "^1.6.2",
-    "spawn-x": "^2.3.3"
+    "spawn-x": "^2.3.4"
   }
 }

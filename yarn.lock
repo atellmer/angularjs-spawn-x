@@ -2313,9 +2313,9 @@ source-map@^0.5.0, source-map@^0.5.3, source-map@~0.5.1, source-map@~0.5.3:
   version "0.5.6"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.5.6.tgz#75ce38f52bf0733c5a7f0c118d81334a2bb5f412"
 
-spawn-x@^2.3.3:
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/spawn-x/-/spawn-x-2.3.3.tgz#b8b8622d3cd60ea6cb66cf523227cd1f0d04b58c"
+spawn-x@^2.3.4:
+  version "2.3.4"
+  resolved "https://registry.yarnpkg.com/spawn-x/-/spawn-x-2.3.4.tgz#4e7833f70a084dde093dc4d79ab34ed92c6ac34d"
 
 spdx-correct@~1.0.0:
   version "1.0.2"

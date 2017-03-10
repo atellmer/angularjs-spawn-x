@@ -17,8 +17,7 @@ if (env === 'build:prod') {
 
 const config = {
   externals: {
-    'angular': 'angular',
-    'spawn-x': 'Spawn'
+    'angular': 'angular'
   },
   entry: path.resolve(__dirname, 'src/index.js'),
   output: {

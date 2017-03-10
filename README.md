@@ -5,18 +5,17 @@
 ## install
 With npm:
 ```
-npm install spawn-x angularjs-spawn-x --save
+npm install angularjs-spawn-x --save
 ```
 With yarn:
 ```
-yarn add spawn-x angularjs-spawn-x
+yarn add angularjs-spawn-x
 ```
 With bower:
 ```
-bower install spawn-x angularjs-spawn-x --save
+bower install angularjs-spawn-x --save
 ```
 ```html
-<script src="path/to/spawn-x/lib/spawn-x.umd.min.js"></script>
 <script src="path/to/angularjs-spawn-x/lib/angularjs-spawn-x.umd.min.js"></script>
 ```
 
