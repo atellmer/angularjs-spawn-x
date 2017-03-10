@@ -1,6 +1,6 @@
 {
   "name": "angularjs-spawn-x",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "AngularJS connector for spawn-x. (Reactive management for javaScript applications)",
   "author": "AlexPlex",
   "license": "MIT",
@@ -46,6 +46,6 @@
   },
   "peerDependencies": {
     "angular": "^1.6.2",
-    "spawn-x": "^2.3.2"
+    "spawn-x": "^2.3.3"
   }
 }
