@@ -17,7 +17,13 @@ if (env === 'build:prod') {
 
 const config = {
   externals: {
-    'angular': 'angular'
+    'angular': 'angular',
+    'spawn-x': {
+      root: 'Spawn',
+      commonjs2: 'spawn-x',
+      commonjs: 'spawn-x',
+      amd: 'spawn-x'
+    }
   },
   entry: path.resolve(__dirname, 'src/index.js'),
   output: {
