@@ -11,7 +11,8 @@ import {
 
 export default angular
   .module('ngSpawnModule', [])
-  .provider('ngSpawn', ngSpawn).name;
+  .provider('ngSpawn', ngSpawn)
+  .name;
 
 function ngSpawn() {
   let store;
